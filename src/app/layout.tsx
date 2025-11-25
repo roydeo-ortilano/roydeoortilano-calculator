@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Calculator - Roydeo Ortilano",
+  title: "Basic Calculator",
   description: "A modern dark-themed calculator with cyan accents",
 };
 
